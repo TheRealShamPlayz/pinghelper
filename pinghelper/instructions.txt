@@ -1,0 +1,14 @@
+Hello! Thank you for downloading Ping Helper! (If I am being honest, I could not find a good name for this program)
+The program can either show you how to improve your connection (essentially a walkthrough) or automagically apply some settings to help your ping!
+(Just a quick heads up, with both "modes" you are still going to have to do some stuff yourself, like installing some applications, but this program will help you through those things)
+Before you run this program in either express or walkthrough "mode",
+PLEASE
+PLEASE
+PLEASE
+MAKE A BACKUP OF YOUR REGISTRY!!!!!!!!!
+Both "Installation Modes" will show you how to do this, so do not worry if you don't know how to.
+The reason you should do this is because something can go wrong with regristry editing. It is like trying to delete cortana (yes im using that as an example).
+If you don't take the right precations, you can be screwed over. If you do, you have a backup to fix this mess!
+So just to be safe, PLEASE DO IT!!!!
+Anyways, that is it!
+Enjoy your low Ping!
