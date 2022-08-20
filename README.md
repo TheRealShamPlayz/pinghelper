@@ -8,3 +8,5 @@ Warning,
 
 anyways,
 this was a project purely made from the hatred i have for rogers and their shit wifi lol
+
+#BTW, This program is kind of replaced with EzPing, becuase it's frankly a lot better (also I am not accosiated with EzPing)
